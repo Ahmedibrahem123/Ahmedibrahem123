@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">Software Engineer || Backend Developer</h3>
 
-- 🎓 Computer Science & Engineering undergraduate **E-Commerce Systems**
+- 🎓 Computer Science Undergraduate Student 
+
+- I’m currently working on **E-Commerce Systems**
 
 - 🌱 I’m currently learning **Web Development**
 
